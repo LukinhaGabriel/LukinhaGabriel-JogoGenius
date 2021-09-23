@@ -1,0 +1,5 @@
+.yellow{
+    grid-area: genius-yellow;
+    background-color: #ffa801;
+    border-bottom-left-radius: 100%;
+}

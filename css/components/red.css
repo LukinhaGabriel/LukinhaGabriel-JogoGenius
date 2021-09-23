@@ -1,0 +1,5 @@
+.red{
+    grid-area: genius-red;
+    background-color: #ff3f34;
+    border-top-right-radius: 100%;
+}

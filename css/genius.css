@@ -1,0 +1,12 @@
+.genius{
+    display: grid;
+    grid-template-areas: 'genius-green genius-red'
+    'genius-yellow genius-blue';
+    grid-gap: 10px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 100%;
+    width: 700px;
+    height: 700px;
+    
+}
