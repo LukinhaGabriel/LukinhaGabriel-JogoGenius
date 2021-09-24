@@ -3,7 +3,7 @@
     grid-template-areas: 'genius-green genius-red'
     'genius-yellow genius-blue';
     grid-gap: 10px;
-    border: 1px solid white;
+    border: 10px solid rgb(17, 17, 17);
     background-color: white;
     border-radius: 100%;
     width: 700px;
